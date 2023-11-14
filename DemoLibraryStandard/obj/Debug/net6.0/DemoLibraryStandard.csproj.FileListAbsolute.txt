@@ -1,0 +1,11 @@
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\bin\Debug\net6.0\DemoLibraryStandard.deps.json
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\bin\Debug\net6.0\DemoLibraryStandard.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\bin\Debug\net6.0\DemoLibraryStandard.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.AssemblyInfoInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.AssemblyInfo.cs
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.csproj.CoreCompileInputs.cache
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\refint\DemoLibraryStandard.dll
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\DemoLibraryStandard.pdb
+D:\Demo\DP-P-DSAA-I-I-Entities\BasicsSL\xUnit\DemoLibrary\obj\Debug\net6.0\ref\DemoLibraryStandard.dll

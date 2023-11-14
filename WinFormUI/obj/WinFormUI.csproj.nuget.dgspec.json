@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\WinFormUI\\WinFormUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\DemoLibrary\\DemoLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\DemoLibrary\\DemoLibrary.csproj",
+        "projectName": "DemoLibrary",
+        "projectPath": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\DemoLibrary\\DemoLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\WinFormUI\\WinFormUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\WinFormUI\\WinFormUI.csproj",
+        "projectName": "WinFormUI",
+        "projectPath": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\WinFormUI\\WinFormUI.csproj",
+        "packagesPath": "C:\\Users\\Rukshan(RukshanAndra\\.nuget\\packages\\",
+        "outputPath": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\WinFormUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rukshan(RukshanAndra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\DemoLibrary\\DemoLibrary.csproj": {
+                "projectPath": "D:\\Demo\\DP-P-DSAA-I-I-Entities\\BasicsSL\\xUnit\\DemoLibrary\\DemoLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
